@@ -83,7 +83,7 @@
         onEachFeature: onEachFeature
     }).addTo(map);
 
-    map.attributionControl.addAttribution('Sensus Ekonomi 2016 &copy; <a href="http://bps.go.id/">Badan Pusat Statistik</a>');
+    map.attributionControl.addAttribution('&copy; <a href="http://bps.go.id/">Badan Pusat Statistik</a>');
 
     // Legend
     var legend = L.control({position: 'bottomright'});
